@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "ask-sdk-core": "^2.14.0",
-    "ask-sdk-model": "^1.67.0",
+    "ask-sdk-model": "^1.71.0",
     "openai": "^3.2.1"
   }
 }
